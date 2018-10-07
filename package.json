@@ -1,0 +1,26 @@
+{
+  "name": "service-worker-code",
+  "version": "1.0.0",
+  "description": "service worker demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangguixu/service-worker-code.git"
+  },
+  "keywords": [
+    "service",
+    "worker"
+  ],
+  "author": "zhangguixu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangguixu/service-worker-code/issues"
+  },
+  "homepage": "https://github.com/zhangguixu/service-worker-code#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
